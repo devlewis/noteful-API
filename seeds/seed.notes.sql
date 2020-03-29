@@ -1,7 +1,7 @@
 BEGIN;
 
 INSERT INTO notes 
-    (title, content, folder_id)
+    (title, content, folderId)
     VALUES
     ('Heyo','Howdeedo', 1),
     ('Hiya','different', 2),
